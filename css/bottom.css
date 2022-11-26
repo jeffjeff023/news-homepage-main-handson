@@ -5,9 +5,16 @@
 }
 
 .container__bottom--sub:not(:last-child) {
+<<<<<<< HEAD
     margin-bottom: 4rem;    
 }
 
+=======
+    margin-bottom: 4rem;
+}
+
+
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
 .container__bottom--sub {
     display: flex;
 }
@@ -22,7 +29,11 @@
     padding: 0 2rem;
 }
 
+<<<<<<< HEAD
 .bottom__sub h3 {
+=======
+.bottom__sub h3{
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     font-family: 'Inter ExtraBold', sans-serif;
     font-size: 3rem;
     color: hsl(233, 8%, 79%);
@@ -48,8 +59,14 @@
     }
 
     .container__bottom--sub img {
+<<<<<<< HEAD
         height: 150px
     }
 }
 
 
+=======
+        height: 150px;
+    }
+}
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba

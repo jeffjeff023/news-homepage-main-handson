@@ -12,6 +12,10 @@
     font-family: 'Inter ExtraBold';
     src: url('../assets/fonts/static/Inter-ExtraBold.ttf')
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
 * {
     margin: 0;
     padding: 0;
@@ -24,14 +28,22 @@ html {
 
 body {
     padding: 4rem 2rem;
+<<<<<<< HEAD
     background-color: hsl(36, 100%, 99%);
+=======
+    background-color: hsl(36, 100%,99%);
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
 }
 
 .navigation {
     display: flex;
     justify-content: space-between;
     align-items: center;
+<<<<<<< HEAD
     margin-buttom: 3rem;
+=======
+    margin-bottom: 3rem;
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
 }
 
 .navigation__brand {
@@ -75,6 +87,10 @@ body {
     .navigation__icon {
         display: none;
     }
+<<<<<<< HEAD
     
 }
 
+=======
+}
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
